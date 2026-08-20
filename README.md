@@ -1,4 +1,4 @@
-# Hi👋, It's me Boyd
+# Boyd Delfin
 
 ### 🚀 About Me
 
