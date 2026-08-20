@@ -2,8 +2,7 @@
 
 ### 🚀 About Me
 
-- 👨‍💻 **Background:** 7 years of professional experience building web solutions with WordPress, PHP, and modern web standards.
-- 🎯 **Current Focus:** Transitioning to Full-Stack JavaScript Development with the **MERN Stack** (MongoDB, Express, React, Node.js).
+- 🎯 **Current Focus:** Transitioning from WordPress Web Developer to Full-Stack JavaScript Development with the **MERN Stack** (MongoDB, Express, React, Node.js).
 - 📈 **Goal:** Combining years of real-world client experience with scalable modern frameworks to create high-impact web apps.
 - 🤝 **Open to:** Collaborating on open-source projects or exciting web development initiatives
 
